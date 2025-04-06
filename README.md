@@ -1,3 +1,5 @@
+source: [here](https://youtu.be/1z17BswGsdw?si=oZB1mt8_TbZnGzbF)
+
 ## Find command search for files in a directory  
 - __Syntax:__ ```find [opttions] [path] [expression]```   
 - __Example:__ ```find /path/ -name <file name>```  
